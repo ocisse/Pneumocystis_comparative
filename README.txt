@@ -1,6 +1,6 @@
 This file describes data used for the paper entitled:
 "Comparative Genomics suggests that the Human Pathogenic Fungus Pneumocystis
-jirovecii acquired Obligate Biotrophy through Adaptive Gene Loss"
+jirovecii acquired Obligate Biotrophy through Gene Loss"
 
 ==> Content 
 
