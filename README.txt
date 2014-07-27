@@ -22,3 +22,5 @@ final.rates     -   Optimized phylogenetic birth-and-death model rates
 Dollo_parsimony_data 	- Dollo parsimony reconstruction data
 
 parser_orthomcl_out.pl - parser which creates the gene counts matrix
+
+proteomes.zip	
