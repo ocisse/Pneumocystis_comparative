@@ -2,7 +2,7 @@ The folder Pneumocystis_Biotrophy describes data used for the paper entitled:
 "Comparative Genomics suggests that the Human Pathogenic Fungus Pneumocystis
 jirovecii acquired Obligate Biotrophy through Gene Loss"
 
-The folder Pneumocystis_MAT_evolution describes data used for the paper entitled:
+The folder Pneumocystis_Mating describes data used for the paper entitled:
 "Comparative Genomics
 suggests Primary Homothallism of Pneumocystis
 species"
